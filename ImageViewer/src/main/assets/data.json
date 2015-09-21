@@ -1,0 +1,48 @@
+{
+  "action": "test",
+  "data": [
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/apparel.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/dining.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/home_shop_myfavorites.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/arrow_toRight.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/entertainment.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/jewelry.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/auto.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/event_tickets.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/pets.pngbaby.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/finance.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/shopping_cart.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/beauty.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/gifts.png"
+    },
+    {
+      "image": "http://www.mypoints.com/images/mobile_icons/sports.png"
+    }
+  ]
+
+}

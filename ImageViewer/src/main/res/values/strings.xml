@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageViewer</string>
+    <string name="action_data">Original Data</string>
+    <string name="action_data_corrected">Corrected Data</string>
+</resources>
